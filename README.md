@@ -26,9 +26,9 @@ I already put advices from these lists that I found particularly useful in the s
 * [Advice on Research and Writing](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html) by Mark Leone
 
 ## Tools
-* [Mendeley](https://www.mendeley.com/)
-* [GitKraken Boards](https://www.gitkraken.com/boards)
-* [pomodor.app](https://pomodor.app/timer)
+* [Mendeley](https://www.mendeley.com/) - Reference Management & Recommendation based on your library
+* [GitKraken Boards](https://www.gitkraken.com/boards) - Developer-friendly Kanban board
+* [pomodor.app](https://pomodor.app/timer) - Simple yet customizable Pomodor timer
   * I use 35/5/25 with four cycles. With this setup, a single pomodor session takes exactly 3 hours to finish.
 * [wakatime](https://wakatime.com/) - Analyze how much time you spend in IDE
 
