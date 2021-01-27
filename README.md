@@ -33,6 +33,7 @@ I already put advices from these lists that I found particularly useful in the s
 * [wakatime](https://wakatime.com/) - Analyze how much time you spend in IDE
 
 ## Articles written in Korean
+* [영웅이 아니어도 돼](https://bbs.ruliweb.com/family/212/board/300063/read/30572881) by 반바지
 * [대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/)
 * [공대 유학 지원 후기](https://www.gohackers.com/?c=prepare/prepare_info/go_gradu&uid=89154)
 * [박사과정 지원을 준비하며](https://minalee.info/2016/12/19/%EB%B0%95%EC%82%AC%EA%B3%BC%EC%A0%95-%EC%A7%80%EC%9B%90%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EB%A9%B0/)
