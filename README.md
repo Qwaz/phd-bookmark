@@ -12,6 +12,14 @@ A collection of online resources that I found useful for Ph.D. students. Some ma
 * [Dear brilliant students: Please consider not doing a PhD.](https://liv.dreamwidth.org/389934.html) by Liv
   * This is a demotivating article instead of a motivating one. You really should have a good reason that justifies why you still want to pursue a Ph.D. degree after all these demerits.
 
+### Quotes
+
+> Any sufficiently advanced technology is indistinguishable from magic. - Arthur C. Clarke
+
+> If I have seen further it is by standing on the shoulders of Giants. - Isaac Newton
+
+> We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too. - John F. Kennedy
+
 ## How to decide the reasearch topics?
 * [You and Your Research](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf) by Richard W. Hamming
 
