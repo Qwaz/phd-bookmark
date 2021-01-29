@@ -16,7 +16,7 @@ A collection of online resources that I found useful for Ph.D. students. Some ma
 
 > Any sufficiently advanced technology is indistinguishable from magic. - Arthur C. Clarke
 
-> If I have seen further it is by standing on the shoulders of Giants. - Isaac Newton
+> If I have seen further, it is by standing on the shoulders of Giants. - Isaac Newton
 
 > We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard, because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one which we intend to win, and the others, too. - John F. Kennedy
 
