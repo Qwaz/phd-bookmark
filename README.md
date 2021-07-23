@@ -26,6 +26,7 @@ A collection of online resources that I found useful for Ph.D. students. Some ma
 ## Writing Tips
 * [How to write a technical paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html) by Michael Ernst
 * [How to write papers so people can read them](https://people.mpi-sws.org/~dreyer/talks/talk-plmw16.pdf) by Derek Deyer
+* [Advice on writing an author response](http://www.pl-enthusiast.net/2014/09/17/advice-writing-author-response/) by Michael Hicks
 
 ## Other lists
 I already put advices from these lists that I found particularly useful in the sections above.
