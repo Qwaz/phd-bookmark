@@ -25,6 +25,7 @@ A collection of online resources that I found useful for Ph.D. students. Some ma
 
 ## Writing Tips
 * [How to write a technical paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html) by Michael Ernst
+* [How to give a technical presentation (how to give a scientific talk)](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) by Michael Ernst
 * [How to write papers so people can read them](https://people.mpi-sws.org/~dreyer/talks/talk-plmw16.pdf) by Derek Deyer
 * [Advice on writing an author response](http://www.pl-enthusiast.net/2014/09/17/advice-writing-author-response/) by Michael Hicks
 
@@ -37,10 +38,7 @@ I already put advices from these lists that I found particularly useful in the s
 ## Tools
 * [Mendeley](https://www.mendeley.com/) - Reference Management & Recommendation based on your library
 * [GitKraken Boards](https://www.gitkraken.com/boards) - Developer-friendly Kanban board
-* [pomodor.app](https://pomodor.app/timer) - Simple yet customizable Pomodor timer
-  * I use 35/5/25 with four cycles. With this setup, a single pomodor session takes exactly 3 hours to finish.
 * [Clockify](https://clockify.me/) - Track your time
-* [wakatime](https://wakatime.com/) - Analyze how much time you spend in IDE
 
 ## Articles written in Korean
 * [영웅이 아니어도 돼](https://bbs.ruliweb.com/family/212/board/300063/read/30572881) by 반바지
