@@ -29,6 +29,7 @@ A collection of online resources that I found useful for Ph.D. students. Some ma
 * [How to give a technical presentation (how to give a scientific talk)](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html) by Michael Ernst
 * [How to write papers so people can read them](https://people.mpi-sws.org/~dreyer/talks/talk-plmw16.pdf) by Derek Deyer
 * [Advice on writing an author response](http://www.pl-enthusiast.net/2014/09/17/advice-writing-author-response/) by Michael Hicks
+* [Patterns for writing good rebuttals](https://andreas-zeller.info/2012/10/01/patterns-for-writing-good-rebuttals.html) by Andreas Zeller
 
 ## Other lists
 I already put advices from these lists that I found particularly useful in the sections above.
