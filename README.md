@@ -22,6 +22,7 @@ A collection of online resources that I found useful for Ph.D. students. Some ma
 
 ## How to decide the reasearch topics?
 * [You and Your Research](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf) by Richard W. Hamming
+* [What makes good research?](https://andreas-zeller.info/2012/10/16/what-makes-good-research.html) by Andreas Zeller
 
 ## Writing Tips
 * [How to write a technical paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html) by Michael Ernst
