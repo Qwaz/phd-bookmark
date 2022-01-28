@@ -39,7 +39,8 @@ I already put advices from these lists that I found particularly useful in the s
 
 ## Tools
 * [Mendeley](https://www.mendeley.com/) - Reference Management & Recommendation based on your library
-* [GitKraken Boards](https://www.gitkraken.com/boards) - Developer-friendly Kanban board
+* ~~[GitKraken Boards](https://www.gitkraken.com/boards) - Developer-friendly Kanban board~~
+  * Planned to sunset :cry: Maybe use Trello
 * [Clockify](https://clockify.me/) - Track your time
 
 ## Articles written in Korean
@@ -48,4 +49,5 @@ I already put advices from these lists that I found particularly useful in the s
 * [공대 유학 지원 후기](https://www.gohackers.com/?c=prepare/prepare_info/go_gradu&uid=89154)
 * [박사과정 지원을 준비하며](https://minalee.info/2016/12/19/%EB%B0%95%EC%82%AC%EA%B3%BC%EC%A0%95-%EC%A7%80%EC%9B%90%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EB%A9%B0/)
   * "지금 알려줄게요, 미국대학원"의 저자 이민아님의 포스트입니다. 유학 준비 과정에서 많은 도움을 받은 책입니다.
+* "우리가 빛의 속도로 갈 수 없다면" (김초엽 작가님의 책)
 * [병역이행안내 > 국외여행,국외체재 > 국외 여행(기간연장) 허가 > 유학](https://www.mma.go.kr/seoul/contents.do?mc=mma0000786)
