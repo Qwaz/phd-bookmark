@@ -9,6 +9,7 @@ A collection of online resources that I found useful for Ph.D. students. Some ma
     * joy of truly understanding
     * joy of doing it right
     * joy of being the authority on an area
+* [Getting a Ph.D. in System Security – the FAQ](https://elmanto.github.io/posts/getting_a_phd_in_syssec) by Alessandro Mantovani
 * [Dear brilliant students: Please consider not doing a PhD.](https://liv.dreamwidth.org/389934.html) by Liv
   * This is a demotivating article instead of a motivating one. You really should have a good reason that justifies why you still want to pursue a Ph.D. degree after all these demerits.
 
